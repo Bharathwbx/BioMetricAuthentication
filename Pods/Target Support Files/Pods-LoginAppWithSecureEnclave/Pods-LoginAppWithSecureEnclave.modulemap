@@ -1,0 +1,6 @@
+framework module Pods_LoginAppWithSecureEnclave {
+  umbrella header "Pods-LoginAppWithSecureEnclave-umbrella.h"
+
+  export *
+  module * { export * }
+}
